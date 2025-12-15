@@ -1,4 +1,4 @@
-package package Amiseq::App::Utility::ConfigManager;
+package Amiseq::App::Utility::ConfigManager;
  
 use strict;
 
